@@ -1,0 +1,25 @@
+.header-img{
+	width: 50px;
+	height: 50px;
+	margin-left: 50%
+}
+.header{
+background: red;margin:10;padding:10px
+}
+input{
+padding:7px;border-radius: 4px;background:none;border:1px solid lightgrey;outline: none
+}
+.button{
+	background:white;
+	border: 1px solid lightgrey;
+	border-radius: 6px;
+	padding: 5px;
+	width: 100px;
+	height: 35px;
+}
+.new-design{
+	background: teal;height: 500px;margin:10px;width:200px;box-shadow: 1px 1px 1px 1px grey;margin-left: 30%;margin-top: 5%;position: relative
+}
+.top-image{
+	position: absolute;top:-40px;width: 80px;left: 60px;border-radius: 	100px
+}
